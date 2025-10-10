@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA5E919-355C-43DC-BC18-8BBB59564D27}|Ejr6\\Ejr6.pyproj|C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr6\\Ejr6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EA5E919-355C-43DC-BC18-8BBB59564D27}|Ejr6\\Ejr6.pyproj|solutionrelative:Ejr6\\Ejr6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2A605B-2E1A-4AC9-9CA3-4DA54DC554F1}|Ejr5\\Ejr5.pyproj|C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr5\\Ejr5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F2A605B-2E1A-4AC9-9CA3-4DA54DC554F1}|Ejr5\\Ejr5.pyproj|solutionrelative:Ejr5\\Ejr5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4AC214-8E82-47C1-B4D5-88C87E2EEFD5}|Ejr4\\Ejr4.pyproj|C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr4\\Ejr4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD4AC214-8E82-47C1-B4D5-88C87E2EEFD5}|Ejr4\\Ejr4.pyproj|solutionrelative:Ejr4\\Ejr4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D373D5A-68A7-4ECC-B917-BA4DCBE978DE}|Ejr2\\Ejr2.pyproj|C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr2\\Ejr2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D373D5A-68A7-4ECC-B917-BA4DCBE978DE}|Ejr2\\Ejr2.pyproj|solutionrelative:Ejr2\\Ejr2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40712DD-4ACB-4BFD-8487-5F2EC6A32710}|Ejr1\\Ejr1.pyproj|C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr1\\Ejr1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F40712DD-4ACB-4BFD-8487-5F2EC6A32710}|Ejr1\\Ejr1.pyproj|solutionrelative:Ejr1\\Ejr1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCA20BB-D801-4747-A072-AE4342633A02}|Ejr3\\Ejr3.pyproj|C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr3\\Ejr3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CCA20BB-D801-4747-A072-AE4342633A02}|Ejr3\\Ejr3.pyproj|solutionrelative:Ejr3\\Ejr3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejr6.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr6\\Ejr6.py",
+              "RelativeDocumentMoniker": "Ejr6\\Ejr6.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr6\\Ejr6.py",
+              "RelativeToolTip": "Ejr6\\Ejr6.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-10T15:13:14.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejr5.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr5\\Ejr5.py",
+              "RelativeDocumentMoniker": "Ejr5\\Ejr5.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr5\\Ejr5.py",
+              "RelativeToolTip": "Ejr5\\Ejr5.py",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-10T14:45:55.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejr4.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr4\\Ejr4.py",
+              "RelativeDocumentMoniker": "Ejr4\\Ejr4.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr4\\Ejr4.py",
+              "RelativeToolTip": "Ejr4\\Ejr4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-10T14:37:01.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejr3.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr3\\Ejr3.py",
+              "RelativeDocumentMoniker": "Ejr3\\Ejr3.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr3\\Ejr3.py",
+              "RelativeToolTip": "Ejr3\\Ejr3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-10T14:34:53.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejr2.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr2\\Ejr2.py",
+              "RelativeDocumentMoniker": "Ejr2\\Ejr2.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr2\\Ejr2.py",
+              "RelativeToolTip": "Ejr2\\Ejr2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-10T14:33:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejr1.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr1\\Ejr1.py",
+              "RelativeDocumentMoniker": "Ejr1\\Ejr1.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ansh_ing\\Sem8_10-10\\Ejr1\\Ejr1.py",
+              "RelativeToolTip": "Ejr1\\Ejr1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-10T14:24:11.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

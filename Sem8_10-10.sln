@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejr1", "Ejr1\Ejr1.pyproj", "{F40712DD-4ACB-4BFD-8487-5F2EC6A32710}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejr2", "Ejr2\Ejr2.pyproj", "{1D373D5A-68A7-4ECC-B917-BA4DCBE978DE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejr3", "Ejr3\Ejr3.pyproj", "{6CCA20BB-D801-4747-A072-AE4342633A02}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejr4", "Ejr4\Ejr4.pyproj", "{FD4AC214-8E82-47C1-B4D5-88C87E2EEFD5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejr5", "Ejr5\Ejr5.pyproj", "{3F2A605B-2E1A-4AC9-9CA3-4DA54DC554F1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejr6", "Ejr6\Ejr6.pyproj", "{6EA5E919-355C-43DC-BC18-8BBB59564D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40712DD-4ACB-4BFD-8487-5F2EC6A32710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40712DD-4ACB-4BFD-8487-5F2EC6A32710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D373D5A-68A7-4ECC-B917-BA4DCBE978DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D373D5A-68A7-4ECC-B917-BA4DCBE978DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCA20BB-D801-4747-A072-AE4342633A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCA20BB-D801-4747-A072-AE4342633A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4AC214-8E82-47C1-B4D5-88C87E2EEFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4AC214-8E82-47C1-B4D5-88C87E2EEFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2A605B-2E1A-4AC9-9CA3-4DA54DC554F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2A605B-2E1A-4AC9-9CA3-4DA54DC554F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA5E919-355C-43DC-BC18-8BBB59564D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA5E919-355C-43DC-BC18-8BBB59564D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71735499-89EB-44E7-AD79-CB8BAB4ED912}
+	EndGlobalSection
+EndGlobal
